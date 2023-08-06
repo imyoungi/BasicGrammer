@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//ArrayList활용한 간단 관리프로그램 만들기
+//ArrayList활용한 간단 관리프로그램 만들기!
 
 public class Program03 {
 	public static void main(String[] args) {
