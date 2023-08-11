@@ -7,7 +7,7 @@ import java.io.IOException;
 public class IoEx_01 { 
 
 	public static void main(String[] args) {
-		File file = new File("data");
+		File file = new File("data2");
 		/*
 		 * 자바에서 제공하는 file 이라는 클래스를 이용해서
 		 * data라는 이름의 파일을 객체로 생성
